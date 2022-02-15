@@ -63,6 +63,8 @@ satisfaction, taking into account the extra constraints of shopping and eating.
 
 constraint: Highest Satisfaction, Time Limit and Changing Wait Times, Satisfaction Decay
 
+
+# Next step:
 2. Implementing the integration of back end and front end - In Process
 design:
 https://www.figma.com/file/NKe5Vu2Uqr9swBYfbaLeId/UI-Design?node-id=0%3A1
